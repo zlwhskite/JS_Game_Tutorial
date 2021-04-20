@@ -5,5 +5,5 @@
 ***
 
 ## 구현한 기능
-* On Click
+* onclick
 * KeyFrames

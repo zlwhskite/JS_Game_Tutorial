@@ -5,5 +5,5 @@
 ***
 
 ## 구현한 기능
-* Mouse Events(click)
+* On Click
 * KeyFrames
